@@ -1,3 +1,13 @@
 <?php
-    echo "inicio proyecto"	
+    echo "inicio proyecto";
+    echo "nuevo desde codio"
+
+
+
+
+
+
+
+
+
 ?>
