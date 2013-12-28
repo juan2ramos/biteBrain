@@ -29,6 +29,7 @@
         <header>
             
             <nav></nav>
+            <nav></nav>
 
         </header>
         <section id="quienSoy">
