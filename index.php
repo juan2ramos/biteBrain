@@ -6,7 +6,7 @@
 <html lang="es">
     <head> 
 
-        <title>Portafolio Juan Ramos</title>
+        <title>biteBrain</title>
 
         <!-- Meta -->
         <meta charset="utf-8">
