@@ -28,7 +28,7 @@
 
         <header>
             
-            </div>
+            <nav></nav>
 
         </header>
         <section id="quienSoy">
